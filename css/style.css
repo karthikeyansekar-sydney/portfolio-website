@@ -70,7 +70,15 @@ h6 { font-size: 16px;}
 	overflow:auto;
 }
 
-
+#profile_pic:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:350px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
 
 
 .main-container{
